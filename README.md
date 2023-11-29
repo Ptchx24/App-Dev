@@ -1,8 +1,5 @@
 # App-Dev
 My first repository
-
-# App-Dev
-My first repository
 # The Fear Street Trilogy
 **"Beware the shadows of Shadyside, where echoes of the past haunt the present, and the curse refuses to be forgotten."**
 
