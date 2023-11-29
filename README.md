@@ -18,13 +18,15 @@ My first repository
 | Syntax      | Description                                                                   |
 | ----------- |-----------------------------------------------------------------------------  |
 | Header      | The Fear Street Trilogy                                                       | 
-| Paragraph   | The Fear Street books take place in the fictionalized town of Shadyside and   |
-|             |   feature average teenagers older than the typical Goosebumps preteens, who   |
-|             |   encounter malignant, sometimes paranormal, adversaries.                     |
+| Paragraph   | The Fear Street books take place in the fictionalized town of Shadyside and feature average teenagers older than the typical Goosebumps preteens, who encounter malignant, sometimes paranormal, adversaries. |                    
 
 
 ## Codebase
 ### Characters
+- **Deena Johnson:** Protagonist of the trilogy 😱.
+- **Sam Fraser:** Deena's girlfriend and a key character in the story 😨.
+- **Josh Johnson:** Deena's younger brother, caught up in the supernatural events 😬.
+  
 `{ my code }`
 
 ```
@@ -54,4 +56,4 @@ My first repository
 
 [^3]: Josh Johnson, portrayed by Benjamin Flores Jr., is Deena's younger brother who gets entangled in the horrors of Shadyside.
 
-
+**Welcome to Shadyside.** ~~A safe and happy place to live.~~
